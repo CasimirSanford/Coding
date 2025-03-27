@@ -1,0 +1,6 @@
+gradio
+pandas
+openpyxl
+smtplib
+ssl
+email
